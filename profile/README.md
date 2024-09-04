@@ -23,8 +23,6 @@
   <p>Tired of your computer acting like a stubborn mule? And your online games lagging more than a turtle on a treadmill? Fear not! We're the digital cowboys who tame the tech wild west. From wrangling servers to lassoing lag, we've got your digital back. So, relax, grab a coffee, and let us handle the tech headaches.</p>
 </div>
 
-</br>
-
 <div align="left">
   <p>🔗 <a href="https://nordalis.de">Website</a>&nbsp;&nbsp;&nbsp; 🔗 <a href="https://discord.nordalis.de"> Discord</a></p>
 </div>
