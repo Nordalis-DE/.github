@@ -15,8 +15,7 @@
 ---
 
 <div align="left">
-  <h2>👋 Welcome to the Nordalis</h2>
-  <p>Tired of your computer acting like a stubborn mule? And your online games lagging more than a turtle on a treadmill? Fear not! We're the digital cowboys who tame the tech wild west. From wrangling servers to lassoing lag, we've got your digital back. So, relax, grab a coffee, and let us handle the tech headaches.</p>
+  <p>Welcome to Nordalis repo 👋. Where our passion for open source drives us to build templates and share some of our infrastructure code. We believe in the power of collaboration and community, and by making our work available to everyone, we hope to inspire and empower others to build better, more efficient systems.</p>
 </div>
 
 <div align="left">
