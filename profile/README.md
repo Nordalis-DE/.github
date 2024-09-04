@@ -6,13 +6,9 @@
 
 <div align="left">
     <p>
-        <a href="https://discord.nordalis.de">
-            <img src="https://img.shields.io/discord/1174062832032153702?color=611a56&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
-        </a>
+        <a href="https://discord.nordalis.de"><img src="https://img.shields.io/discord/1174062832032153702?color=611a56&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/></a>
         &nbsp;&nbsp;
-        <a href="https://www.buymeacoffee.com/r3dspace">
-            <img src="https://img.shields.io/badge/Coffee-Logo?color=611a56&label=Donate&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy-me-a-coffee Badge"/>
-        </a>
+        <a href="https://www.buymeacoffee.com/r3dspace"><img src="https://img.shields.io/badge/Coffee-Logo?color=611a56&label=Donate&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy-me-a-coffee Badge"/></a>
     </p>
 </div>
 
