@@ -15,9 +15,9 @@
 ---
 
 <div align="left">
-  <p>Welcome to Nordalis repo 👋. Where our passion for open source drives us to build templates and share some of our infrastructure code. We believe in the power of collaboration and community, and by making our work available to everyone, we hope to inspire and empower others to build better, more efficient systems.</p>
+  <p>Welcome to the Nordalis repo 👋. Where our passion for open source drives us to build templates and share some of our infrastructure code. We believe in the power of collaboration and community, and by making our work available to everyone, we hope to inspire and empower others to build better, more efficient systems.</p>
 </div>
 
 <div align="left">
-  <p>🔗 <a href="https://nordalis.de">Website</a>&nbsp;&nbsp;&nbsp; 🔗 <a href="https://discord.nordalis.de"> Discord</a></p>
+  <p>🔗<a href="https://nordalis.de">Website</a>&nbsp;&nbsp;&nbsp; 🔗<a href="https://discord.nordalis.de">Discord</a></p>
 </div>
